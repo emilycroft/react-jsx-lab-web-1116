@@ -4,6 +4,9 @@ const ReactDOM = require('react-dom');
 const RegistrationForm = require('./components/RegistrationForm');
 const Webpage = require('./components/Webpage');
 
+
+module.exports = React
+
 ReactDOM.render(
   (
     <div>
